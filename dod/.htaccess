@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteRule ^lol\.png$ /lololol.php [L,NC]
+RewriteRule ^images/123908234.png$   /lololol.php [L,NC]
